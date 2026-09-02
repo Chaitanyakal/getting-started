@@ -46,4 +46,13 @@ develop
 we have made some changes in the project
 
 VERSION 1.1
+feature/application-change
+
+
+
+#Updated Version
+
+VERSION 1.2
+
+master
 master
