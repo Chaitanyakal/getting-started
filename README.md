@@ -47,3 +47,5 @@ we have made some changes in the project
 
 VERSION 1.1
 master
+
+VERSION 1.2 
