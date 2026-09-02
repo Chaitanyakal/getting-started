@@ -42,6 +42,8 @@ If you have ideas on how to make the tutorial better or want to suggest adding n
 issue first before working on your idea. While we love input, we want to keep the tutorial scoped to new-comers.
 As such, we may reject ideas for more advanced requests and don't want you to lose any work you might
 have done. So, ask first and we'll gladly hear your thoughts!
-
+develop
 we have made some changes in the project
-version 1.1
+
+VERSION 1.1
+master
