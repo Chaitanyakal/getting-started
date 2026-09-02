@@ -55,7 +55,7 @@ pipeline {
         stage('Smoke Test') {
             steps {
                 sh '''
-                curl http://localhost:3001
+                curl http://13.234.76.225:3001
                 '''
             }
         }
@@ -76,7 +76,7 @@ pipeline {
         stage('QA Test') {
             steps {
                 sh '''
-                curl http://localhost:3002
+                curl http://13.234.76.225:3002
                 '''
             }
         }
@@ -103,7 +103,7 @@ pipeline {
         stage('Production Health Check') {
             steps {
                 sh '''
-                curl http://localhost:3003
+                curl http://13.234.76.225:3003
                 '''
             }
         }
